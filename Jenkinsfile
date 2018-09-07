@@ -1,2 +1,2 @@
-@Library(value="oicr", changelog=false) _
+@Library(value='kids-first/aws-infra-jenkins-shared-libraries-develop', changelog=false) _
 ego_api{}
